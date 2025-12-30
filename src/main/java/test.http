@@ -1,0 +1,11 @@
+
+POST http://localhost:8081/api/auth/register
+Content-Type: application/json;charset=UTF-8
+
+{
+  "username": "yjx",
+  "password": "yjx2005316",
+  "email": "leafjx@qq.com"
+}
+
+###
